@@ -41,7 +41,7 @@ Make sure you have Node.js and npm installed on your machine.
 ### ### Installation
 
 1.  **Clone the repo**
-    `git clone https://github.com/your_username/strandly.git`
+    `git clone https://github.com/ehmerr/Strandly-Your-Friendly-Hair-Fall-Tracker.git`
 2.  **Navigate to the project directory**
     `cd strandly`
 3.  **Install Backend Dependencies**
